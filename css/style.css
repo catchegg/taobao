@@ -1,0 +1,121 @@
+/*
+* @Author: Marte
+* @Date:   2018-02-13 19:25:10
+* @Last Modified by:   Marte
+* @Last Modified time: 2018-02-13 21:49:52
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+/* 头部字体 */
+body{
+    background-color: #f4f4f4;
+}
+
+.header{
+    height: 35px;
+    width: 990px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+}
+.header-l
+{
+    float: left;
+}
+.header-r{
+    float:right;
+}
+.header-menu{
+    float: left;
+    /* padding: 0 6px; */
+    height: 35px;
+    line-height: 35px;
+    font-size: 12px;
+    color: #6C6C6C;
+}
+
+.ad{
+    height: 70px;
+    border: 1px solid black;
+}
+
+.blank{
+    height: 10px;
+    border: 1px solid black;
+}
+
+.toptab{
+
+    width: 990px;
+    height: 30px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.mainwrapper{
+    width: 990px;
+    height: 632px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.left{
+    display: inline-block;
+    width: 700px;
+    height: 632px;
+    border: 1px solid black;
+}
+.right{
+    display: inline-block;
+    width: 290px;
+    height: 632px;
+    /* border: 1px solid black; */
+}
+.lefttab{
+    float: left;
+    display: inline-block;
+    width: 190px;
+    height: 522px;
+    border: 1px solid #ff5000;
+    border-top: none;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+
+.admain1{
+    padding-top: 5px;
+    float: right;
+    display: inline-block;
+    width: 500px;
+    height: 280px;
+    background-color: red;
+
+}
+.banner{
+    float: right;
+    display: inline-block;
+    width: 500px;
+    height: 30px;
+    background-color: orange;
+
+}
+
+.admain2{
+    float: right;
+    display: inline-block;
+    width: 500px;
+    height: 212px;
+    background-color: green;
+
+}
